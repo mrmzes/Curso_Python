@@ -1,2 +1,2 @@
 # Curso Python
-Aqui se subiran ejemplos de codigos.
+Aquí se subirán ejemplos de códigos.
